@@ -6,13 +6,14 @@ This project is exploring on the Speed-Dating dataset to come up with a business
 We package our solution in a product with features below and in the background we plan for marketing strategy to maximise our profit.
 
 ### 1. Feature #1: Likability Estimator
-Models: Logistic Regression, Decision Tree, Random Forrest, XGBoost 
-Tools: GridSearch, K-Fold, SHAP
-### 2. Feature #2: Interest to Attributes
-Models: Lasso Regression
-### 3. Feature #3: Group Lounge
-Models: K-Means Clustering 
-### 4. Marketing Strategy
-Models: K-Means Clustering 
+**Models:** Logistic Regression, Decision Tree, Random Forrest, XGBoost 
 
-This is project from Master of Science in Business Analytics
+**Tools:** GridSearch, K-Fold, SHAP
+### 2. Feature #2: Interest to Attributes
+**Models:** Lasso Regression
+### 3. Feature #3: Group Lounge
+**Models:** K-Means Clustering 
+### 4. Marketing Strategy
+**Models:** K-Means Clustering 
+
+This project is from Master of Science in Business Analytics 
