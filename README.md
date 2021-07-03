@@ -4,7 +4,7 @@
 
 Finding "the one" has always been the buzzword in whichever era we are in. The verb "Finding" implicates an active efforts that we need to put, in meeting new people or  attending different dates. Though many opportunities has increased tremendously with the technology (such as dating apps), a lot of people are still finding it difficult to invite the other party to go for dates. This provides opportunity for us in helping them to increase their chance further in finding the one.
 
-This project is to address the painpoints of our customer in finding dates. It is packaged as an Emotion Consulting Service that provide different products for their customer. 
+**Objectives** This project is to address the painpoints of our customer in finding dates. It is packaged as an Emotion Consulting Service that provide different products for their customer. 
 
 **Data**: utilizing the Speed Dating dataset https://www.kaggle.com/annavictoria/speed-dating-experiment
 
