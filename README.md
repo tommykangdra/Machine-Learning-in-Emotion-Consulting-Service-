@@ -2,9 +2,9 @@
 
 > Love isn't finding someone you can live with, it is finding someone you can't live without
 
-Finding "the one" has always been the buzzword in whichever era we are in. The verb "Finding" implicates an active efforts that we need to put in, in meeting new people or in attending different dates. Though many opportunities has increased tremendously with the technology (such as dating apps), people are still finding it difficult to invite the other party to go for dates. 
+Finding "the one" has always been the buzzword in whichever era we are in. The verb "Finding" implicates an active efforts that we need to put, in meeting new people or  attending different dates. Though many opportunities has increased tremendously with the technology (such as dating apps), a lot of people are still finding it difficult to invite the other party to go for dates. This provides opportunity for us in helping them to increase their chance further in finding the one.
 
-This project is to address these pinpoints and is packaged as an Emotion Consulting Service that provide different products for their customer. 
+This project is to address the painpoints of our customer in finding dates. It is packaged as an Emotion Consulting Service that provide different products for their customer. 
 
 **Data**: utilizing the Speed Dating dataset https://www.kaggle.com/annavictoria/speed-dating-experiment
 
