@@ -35,5 +35,3 @@ Marketing strategy based on machine learning to increase personalize the package
 **Models:** K-Means Clustering
 
 This project is from Master of Science in Business Analytics
-
-This project is from Master of Science in Business Analytics 
