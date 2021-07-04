@@ -12,26 +12,26 @@ The message was sent three days ago to the potential date that you have chatted 
 
 &emsp;to address the pain point of "Difficulties in knowing their position in courtship market"
 
-**Models:** Logistic Regression, Decision Tree, Random Forrest, XGBoost
+&emsp;**Models:** Logistic Regression, Decision Tree, Random Forrest, XGBoost
 
-**Tools:** GridSearch, K-Fold, SHAP
+&emsp;**Tools:** GridSearch, K-Fold, SHAP
 
 #### 2. Feature #2: Interest to Attributes
 
-to address the pain point of "Difficulties in improving their popularity"
+&emsp;to address the pain point of "Difficulties in improving their popularity"
 
-**Models:** Lasso Regression
+&emsp;**Models:** Lasso Regression
 
 #### 3. Feature #3: Group Lounge
 
-to address the pain point of "Lack of social circle to find potential partner"
+&emsp;to address the pain point of "Lack of social circle to find potential partner"
 
-**Models:** K-Means Clustering
+&emsp;**Models:** K-Means Clustering
 
 #### 4. Marketing Strategy
 
-Marketing strategy based on machine learning to increase personalize the package to different groups through the means of Unsupervised Clustering method. 
+&emsp;Marketing strategy based on machine learning to increase personalize the package to different groups through the means of Unsupervised Clustering method. 
 
-**Models:** K-Means Clustering
+&emsp;**Models:** K-Means Clustering
 
 This project is from Master of Science in Business Analytics
