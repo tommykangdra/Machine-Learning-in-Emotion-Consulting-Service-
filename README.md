@@ -10,7 +10,7 @@ The message was sent three days ago to the potential date that you have chatted 
 
 #### 1. Feature #1: Likability Estimator
 
-to address the pain point of "Difficulties in knowing their position in courtship market"
+&emsp;to address the pain point of "Difficulties in knowing their position in courtship market"
 
 **Models:** Logistic Regression, Decision Tree, Random Forrest, XGBoost
 
