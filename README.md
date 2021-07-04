@@ -1,8 +1,6 @@
-# Machine Learning in Emotion Consulting Service
+> Shall we meet up? - sent 3 days ago 
 
-> Love isn't finding someone you can live with, it is finding someone you can't live without
-
-Finding "the one" has always been the buzzword in whichever era we are in. The verb "Finding" implicates an active efforts that we need to put, in meeting new people or  attending different dates. Though many opportunities has increased tremendously with the technology (such as dating apps), a lot of people are still finding it difficult to invite the other party to go for dates. This provides opportunity for us in helping them to increase their chance further in finding the one.
+The message was sent three days ago to the potential date that you have chatted for some days from the dating apps. Guess you have been "ghosted" (Oh.. the pain..). This is a common occurrence that happen in the dating scene these days. While the technology and the internet, has increase more opportunities than ever, a lot of people still suffer from the difficulties to find a match for date. For most of people, it is a let down, but for us, this smells like an opportunity.
 
 **Objectives** This project is to address the painpoints of our customer in finding dates. It is packaged as an Emotion Consulting Service that provide different products for their customer. 
 
