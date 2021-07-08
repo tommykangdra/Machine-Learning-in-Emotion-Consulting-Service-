@@ -10,7 +10,7 @@ The message was sent three days ago to the potential date that you have chatted 
 
 ### Features
 
-![Business Model.jpg](/Business Model.jpg)
+![Business Model.jpg](/BusinessModel.jpg)
 
 #### 1. Feature #1: Likability Estimator
 
