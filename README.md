@@ -14,7 +14,7 @@ The message was sent three days ago to the potential date that you have chatted 
 
 #### 1. Feature #1: Likability Estimator
 
-&emsp;to address the pain point of "Difficulties in knowing their position in courtship market"
+to address the pain point of "Difficulties in knowing their position in courtship market". We use different machine learning regression models that able to translate from the 6 qualities of a person into the percentage of likability of the person. 
 
 &emsp;**Models:** Logistic Regression, Decision Tree, Random Forrest, XGBoost
 
@@ -22,19 +22,19 @@ The message was sent three days ago to the potential date that you have chatted 
 
 #### 2. Feature #2: Interest to Attributes
 
-&emsp;to address the pain point of "Difficulties in improving their popularity"
+Lasso regression is used to predict the 6 qualities of the person, from the hobbies that they have. This feature aim to address the pain point of "Difficulties in improving their popularity"
 
 &emsp;**Models:** Lasso Regression
 
 #### 3. Feature #3: Group Lounge
 
-&emsp;to address the pain point of "Lack of social circle to find potential partner"
+From the hobbies that each participant have, unsupervised machine learning K-means are implemented to group our clients based on the similarities that they have with their partner to address the pain points of "Lack of social circle to find potential partner"
 
 &emsp;**Models:** K-Means Clustering
 
 #### 4. Marketing Strategy
 
-&emsp;Marketing strategy based on machine learning to increase personalize the package to different groups through the means of Unsupervised Clustering method. 
+Last but not least, Marketing strategy is developped based on machine learning to increase personalize the package to different groups through the means of Unsupervised Clustering method. 
 
 &emsp;**Models:** K-Means Clustering
 
