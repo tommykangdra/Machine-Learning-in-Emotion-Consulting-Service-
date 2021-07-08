@@ -10,6 +10,8 @@ The message was sent three days ago to the potential date that you have chatted 
 
 ### Features
 
+![Business Model](/Business Model.jpg)
+
 #### 1. Feature #1: Likability Estimator
 
 &emsp;to address the pain point of "Difficulties in knowing their position in courtship market"
